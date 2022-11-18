@@ -1,9 +1,8 @@
-import { useState } from 'react'
+
 import './main.css'
 import { useEffect } from 'react'
 import * as THREE from 'three'
 import Section from './Sections'
-import { TTFLoader } from 'three/examples/jsm/loaders/TTFLoader';
 import { FontLoader } from 'three/examples/jsm/loaders/FontLoader';
 import { TextGeometry } from 'three/examples/jsm/geometries/TextGeometry';
 
