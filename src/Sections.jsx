@@ -87,7 +87,7 @@ function Section() {
 
                 </main>
 
-                <script type="module" src="/main.js"></script>
+                <script type="module" src="/main.jsx"></script>
         </>
     )
 }   
